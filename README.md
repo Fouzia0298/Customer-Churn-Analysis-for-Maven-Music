@@ -1,7 +1,7 @@
 # Customer-Churn-Analysis-for-Maven-Music
 <!-- PROJECT BANNER -->
 <p align="center">
-  <img src="images/cover.png" alt="Maven Music Churn Analysis" width="800"/>
+  <img src="Maven-Music-Churn-Analysis/images/cover.png.png" alt="Maven Music Churn Analysis" width="800"/>
 </p>
 
 <!-- PROJECT BADGES -->
